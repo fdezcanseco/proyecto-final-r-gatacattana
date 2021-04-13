@@ -247,3 +247,16 @@ united.bigrams.banzai %>%
   labs(x = "Bigramas", Y = "Frecuencia") + 
   ggtitle("Bigramas más frecuentes en Banzai", subtitle = "Gata Cattana")
 
+# A pesar de ser un brevísimo corpus, vamos a intentar representar una nube de palabra:
+install.packages(c("wordcloud", "RColorBrewer"))
+
+library(tidyverse)
+library(tidytext)
+library(wordcloud)
+
+cleaned.noise.songs.banzai.V2 %>%
+  count(token, sor = T) %>%
+  with(wordcloud(token,
+                 n,
+                 max.words = 100,
+                 color = brewer.pal(8, "Dark2")))
