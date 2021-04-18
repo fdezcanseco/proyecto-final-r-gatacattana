@@ -3,7 +3,7 @@
 ## Objetivos
 
 El objetivo de este breve proyecto es doble:
-1. Por un lado, se ha puesto en práctica las nociones aprendidas durante el curso *Análisis de textos y estilometría usando R*.
+1. Por un lado, se ha puesto en práctica las nociones aprendidas durante el curso *Estilometría y análisis de texto con R para filólogos*.
 Dichas nociones se han plasmado en diferentes tareas, las cuales vemos explicadas en el propio script.
 2. Por otra parte, se ha querido rendir un pequeño homenaje a la figura de Gata Cattana. Gata Cattana fue una poetisa, filósofa y cantante determinante para nuestra historia cultural.
 ## Documentación
