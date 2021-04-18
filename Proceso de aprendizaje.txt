@@ -1,0 +1,20 @@
+                     Dificultades encontradas en el proceso de aprendizaje 
+
+Aunque llevo dos años como lingüista computacional y mis tareas diarias suelen ser híbridas (língüística y computación), este curso ha supuesto todo un reto en mi carrera académica y profesional.
+
+Cursar simultáneamente otras asignaturas sobre fundamentos de programación me han ayudado enormemente para poder abstraer determinadas ideas y conceptos plasmados en el curso; casi sin querer, se ha tejido una red de seguridad cognitiva que ha sido diferencial a la hora de enfrentarme a las tareas que se han ido proponiendo durante todo el curso.
+
+A pesar de ello, he encontrado algunas dificultades extras:
+
+Por un lado, considero que este curso es demasiado denso, extenso y útil como para concentrarlo todo en poco más de tres meses. Aunque la asimilación de conceptos haya ido fluyendo,cuanto más se practique sobre diversos escenarios para adquirir este tipo de competencias, mucho mejor. 
+
+Por otra parte, el trabajo realizado sobre el temario y su orden me parece muy bueno, aunque siento que he tenido de manera recurrente un gra problema: la ejemplificación del código. Creo que si se tratara de manera más general me hubiera sido más claro seguir determinadas pautas. Es cierto que han sido los bloques de trabajo más complejos para mí y, por consiguiente, con los que más he tenido que lidiar  los que más nítidos siento en mi aprendizaje.
+
+Está ligado a este apartado, por ejemplo, mi gran frustración en este proyecto: haber sido incapaz de comparar discos de la autora escogida (tal y como se hizo con la comparativa entre discursos reales). 
+En un punto determinado del proceso comparativo, he sentido que se mostraba demasiado específico al ejemplo propuesto, y he sido incapaz de aplicarlo a mi base de datos. 
+Es por ello que, al final, para no generar ruido innecesario a mi proyecto, decidí quedarme con un corpus excesivamente pequeño, pero lo más limpio posible para que, al menos, los datos (aunque no constratados con otros discos) fueran lo más objetivos posible.
+
+Por último, otra de las dificultades que he encontrado, ha sido algo tan aparentemente trivial como designar la nomenclatura. Entiendo que para facilitar el aprendizaje a los estudiantes se ha sugerido nombrar en español, pero al estar acostumbrada en mi día a día a un designar en inglés, decidí apostar por esta estrategia. El problema es que al no saber a qué me iba enfrentando, algunas nomenclaturas resultaron ser un tanto enrevesadas, y fracasé en mi propósito inicial: tener un código claro e intuitivo desde principio a fin. 
+
+
+A pesar de que este documento es para ahondar brevemente en aquellas dificultades encontradas, me siento en la obligación de mencionar también aquellas partes que agradezco muchísimo; las pinceladas de nociones de estadística, y las teóricas sobre lingüística de corpus, si bien no han sido nuevas para mí, son detalles que hacen de este curso un impresdincible. No solo para aquellas y aquellos que quieran dedicarse a la estilometría desde un punto de vista estrictamente filológico, sino también para cualquier persona de que quiera coger rodaje en una práctica que está presente, y cada día más, como es el análisis de datos. 
