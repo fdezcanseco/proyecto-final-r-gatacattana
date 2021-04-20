@@ -12,4 +12,4 @@ En este proyecto podemos encontrar:
 1. El script donde se ha llevado a cabo el proyecto. En este script se encuentra el código y las explicaciones de las nociones relativas a los temas 1-8.
 2. Una carpeta de datos donde se alojan las letras de tres discos de Gata Cattana: Los siete contra Tebas, Banzai y Anclas. En el disco de Banzai, y de cara a tratar con un conjunto lo más limpio posible, se han suprimido algunos estribillos repetidos.
 3. Un breve documento con las dificultades encontradas en el proceso de aprendizaje. 
-4. Un breve informe sobre el tratamiento y análisis de los datos extraidos. 
+4. Un breve informe sobre el tratamiento y análisis de los datos extraídos. 
