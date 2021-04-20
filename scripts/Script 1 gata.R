@@ -135,7 +135,7 @@ cleaned.noise.songs.banzai.V2 %>%
   geom_bar(stat = "identity") + 
   theme_minimal () +
   theme(legend.position = "none") +
-  ylab("Ocurrency") + 
+  ylab("Appearance") + 
   xlab(NULL) +
   ggtitle("BANZAI, GATA CATTANA") +
   coord_flip()
@@ -246,18 +246,4 @@ united.bigrams.banzai %>%
   theme_linedraw() +
   labs(x = "Bigramas", Y = "Frecuencia") + 
   ggtitle("Bigramas más frecuentes en Banzai", subtitle = "Gata Cattana")
-
-# A pesar de ser un brevísimo corpus, vamos a intentar representar una nube de palabras:
-install.packages(c("wordcloud", "RColorBrewer"))
-
-library(tidyverse)
-library(tidytext)
-library(wordcloud)
-
-cleaned.noise.songs.banzai.V2 %>%
-  count(token, sor = T) %>%
-  with(wordcloud(token,
-                 n,
-                 max.words = 100,
-                 color = brewer.pal(8, "Dark2")))
 
